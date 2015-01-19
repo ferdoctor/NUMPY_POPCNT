@@ -6,4 +6,4 @@ This python extension provides fast bit counting of numpy arrays.  It does this 
 
 Save into a folder and run the installation script
 
-python setup.py install
+`python setup.py install`
